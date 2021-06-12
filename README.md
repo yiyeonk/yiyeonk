@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=130&section=header&text=&fontSize=60&fontAlignY=35)
-<h3>Hi there, I'm Yiyeon Kim!👋</h3>
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=100&section=header&text=&fontSize=40&fontAlignY=35)
+
+<h2>Hi there, I'm Yiyeon Kim!👋</h2>
 
 - 😄 I am interested in data science.
 - 🌱 I’m currently learning Machine Learning and Deep Learning!
